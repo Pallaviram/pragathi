@@ -1,0 +1,58 @@
+body
+{
+margin:20px;
+padding:0;
+background:url(rrr.jpg);
+background-size:cover;
+background-position:center;
+font-family:sans-serif;
+}
+h1
+{
+margin:0;
+padding:0 0 30px;
+text-align:center;
+font-size:34px;
+font-family:roadrage;
+}
+.loginbox
+{
+width:550px;
+height:550px;
+color:black;
+top:50px;
+left:50px;
+position:absolute;
+transform:translate(-50x,-50x);
+box-sizing:border-box;
+}
+.loginbox h1
+{
+font-size:34px;
+text-align:center;
+margin:10px o;
+}
+.loginbox p
+{
+font-size:10px;
+margin:4px 0;
+}
+.login-box input
+{
+font-size:16px;
+width:100%;
+padding:15px 10px;
+border:0;
+outline:none;
+border-radius:5px;
+}
+.loginbox button
+{
+font-size:18px;
+font-weight:bold;
+margin:20px 0;
+padding:10px 15px;
+width:20%;
+border-radius:5px;
+border:0;
+}
